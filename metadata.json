@@ -1,0 +1,6 @@
+{
+  "name": "StudyPath",
+  "description": "Class 10 Bihar Board learning and test preparation platform with fast chapter tests, syllabus tracker, and smart revision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
